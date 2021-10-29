@@ -1,0 +1,30 @@
+h3{
+    color:#007aff;
+    background-color: #fff;
+    font-size: 23px;
+    border-radius: 8px;
+}
+
+ul{
+    color: #007aff;
+    list-style: auto;
+    text-transform: uppercase;
+}
+
+button{
+    height: 40px;
+    border-radius: 8px;
+    width: 100px;
+    background-color: #007aff;
+    color: #fff;
+    border-color: #0D193C;
+    border-style: solid;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
